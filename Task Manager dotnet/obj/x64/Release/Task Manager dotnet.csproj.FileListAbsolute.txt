@@ -1,0 +1,11 @@
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\bin\x64\Release\Task Manager dotnet.exe.config
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\bin\x64\Release\Task Manager dotnet.exe
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\bin\x64\Release\Task Manager dotnet.pdb
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task Manager dotnet.csproj.AssemblyReference.cache
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task Manager dotnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task_Manager_dotnet.Form1.resources
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task_Manager_dotnet.Properties.Resources.resources
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task Manager dotnet.csproj.GenerateResource.cache
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task Manager dotnet.csproj.CoreCompileInputs.cache
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task Manager dotnet.exe
+C:\Users\neoromaioi\source\repos\Task Manager dotnet\Task Manager dotnet\obj\x64\Release\Task Manager dotnet.pdb
